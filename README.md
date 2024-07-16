@@ -51,6 +51,6 @@
 
 ###
 
-<h3 align="left">🔥Mis estadísticas :</h3>
+
 
 ###
